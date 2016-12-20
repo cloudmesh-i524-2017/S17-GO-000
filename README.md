@@ -1,0 +1,11 @@
+- [x] repository: https://github.com/cloudmesh-i524-2017/S17-GO-000
+- [x] author: von Laszewski, Gregor
+- [x] hid: S17-GO-000
+- [x] github: laszewsk
+- [x] gitlab: laszewsk
+- [ ] paper1: paper1/paper.pdf, not stated, date of submission
+- [ ] paper2: paper2/paper.pdf, not stated, date of submission
+- [ ] paper3: paper2/paper.pdf, not stated, date of submission
+- [ ] proposal: report/proposal.pdf, not started, date of submission
+- [ ] midterm: report/midterm.pdf, not started, date of submission
+- [ ] report: report/report.pdf, not started, date of submission
